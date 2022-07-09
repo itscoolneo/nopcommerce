@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_login_ddt.py:18 *****Test_002_DDT_Login*****
+[32mINFO    [0m root:test_login_ddt.py:19 *****Verifying Login Test*****
+[32mINFO    [0m root:test_login_ddt.py:42 *** Passed
+[32mINFO    [0m root:test_login_ddt.py:58 ***Login DDT test passed
+[32mINFO    [0m root:test_login_ddt.py:66 *** END OF LOGIN DDT TEST
+[32mINFO    [0m root:test_login_ddt.py:67 *** COMPLETED LOGIN DDT TEST

@@ -1,0 +1,8 @@
+[32mINFO    [0m root:test_AddCustomer.py:18 ****** TEST_003_ADDCUSTOMER ******
+[32mINFO    [0m root:test_AddCustomer.py:27 ****** Login Successfull ******
+[32mINFO    [0m root:test_AddCustomer.py:29 ****** Starting Add Customer Test ******
+[32mINFO    [0m root:test_AddCustomer.py:36 ****** Providing customer info ******
+[32mINFO    [0m root:test_AddCustomer.py:51 ****** Saving Customer Info ******
+[32mINFO    [0m root:test_AddCustomer.py:53 ****** Add Customer Validation Started ******
+[32mINFO    [0m root:test_AddCustomer.py:59 ****** Add Customer Test Passed ******
+[32mINFO    [0m root:test_AddCustomer.py:65 ****** ENDING HOME PAGE TITILE TEST
